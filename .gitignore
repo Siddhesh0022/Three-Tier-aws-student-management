@@ -1,0 +1,9 @@
+*.log
+*.class
+.env
+*.pem
+*.key
+target/
+build/
+.idea/
+.vscode/
